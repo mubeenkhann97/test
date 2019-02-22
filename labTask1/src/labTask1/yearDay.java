@@ -15,6 +15,7 @@ public class yearDay {
 		 		sc.close();
 		int dayOfYear = dayOfYear(month,dayOfMonth,year);
 				System.out.println("day of year is "+dayOfYear);
+				System.out.println("day of agcvhjsgfjhsfgkjdfhdkjghkdhg");
 				
 	}
 
